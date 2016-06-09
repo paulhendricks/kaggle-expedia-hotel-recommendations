@@ -1,4 +1,7 @@
 .Rproj.user
 .Rhistory
 .RData
-kaggle-expedia-hotel-recommendations.Rproj
+*.Rproj
+.idea/
+data/
+submissions/
